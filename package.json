@@ -1,0 +1,25 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "hallo\r text",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianWolter1/gh-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianWolter1/gh-pages/issues"
+  },
+  "homepage": "https://github.com/SebastianWolter1/gh-pages#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
